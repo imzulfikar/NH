@@ -1,5 +1,7 @@
 
-{ 
+{ "scripts": 
+              "start": "node index.js"
+           
   "url" : "https://github.com/haxorsprogramming/Uinsu-Web-Framework",
   "email" : "hpc@haxorsprogrammingclub.id"
 }
